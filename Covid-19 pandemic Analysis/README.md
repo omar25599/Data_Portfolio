@@ -6,6 +6,8 @@ Secondly: Population Data by [Negusbuk](https://github.com/datasets/population/b
 
 Tables in the DB -> [covid_analysis](https://github.com/omar25599/SQL-Projects/blob/main/Covid-19%20pandemic%20Analysis/full_data.csv), [population](https://github.com/omar25599/SQL-Projects/blob/main/Covid-19%20pandemic%20Analysis/population.csv)
 
+Tools used in the project: PostgreSQL, Pandas, Ploty
+
 Kindly find Project from [here](https://github.com/omar25599/SQL-Projects/blob/main/Covid-19%20pandemic%20Analysis/Covid-19%20Analysis.ipynb)
 
 Enjoyy!
