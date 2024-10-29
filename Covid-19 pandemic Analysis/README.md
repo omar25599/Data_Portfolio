@@ -8,8 +8,8 @@ This project provides a comprehensive analysis of COVID-19 trends using data fro
 ## Database Structure:
 
 * ### Tables:
- * ### [covid_analysis](https://github.com/omar25599/SQL-Projects/blob/main/Covid-19%20pandemic%20Analysis/full_data.csv): Contains daily COVID-19 case and mortality data.
- * ### [population](https://github.com/omar25599/SQL-Projects/blob/main/Covid-19%20pandemic%20Analysis/population.csv): Holds population metrics by country for better context in rate calculations.
+  * ### [covid_analysis](https://github.com/omar25599/SQL-Projects/blob/main/Covid-19%20pandemic%20Analysis/full_data.csv): Contains daily COVID-19 case and mortality data.
+  * ### [population](https://github.com/omar25599/SQL-Projects/blob/main/Covid-19%20pandemic%20Analysis/population.csv): Holds population metrics by country for better context in rate calculations.
 ## Tools Used:
 
 * ### PostgreSQL: For data storage and querying
