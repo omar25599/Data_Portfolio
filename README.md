@@ -5,5 +5,5 @@ Welcome to the Data and Machine Learning Portfolio! This repository showcases a 
    * ### [Covid-19 Pandemic Analysis](https://github.com/omar25599/SQL-Projects/tree/main/Covid-19%20pandemic%20Analysis): Visualization and exploration of pandemic trends across countries.
    * ### [Unicorn Analysis](https://github.com/omar25599/SQL-Projects/tree/main/Unicorn%20Analysis): Insights into industry trends and performance among unicorn startups.
 * ### Data Science Projects:
-   * ### [Predicting Medical Representatives](https://github.com/omar25599/DA-Projects/tree/main/predicting%20medical%20representatives): This project aims to develop a predictive model for identifying successful Medical Representatives based on various features. The goal is to streamline recruitment and evaluation processes by analyzing and forecasting key attributes linked to high performance.
+   * ### [Predicting Medical Representatives](https://github.com/omar25599/DA-Projects/tree/main/predicting%20medical%20representatives): developing a predictive model for identifying successful Medical Representatives based on various features.
 
