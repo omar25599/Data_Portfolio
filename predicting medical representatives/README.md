@@ -1,6 +1,6 @@
 # Predicting Medical Representatives Project
 ## Overview
-This project aims to develop a predictive model for Optimizing Medical Representatives' Mission in Targeting Doctors based on various features. The goal is to streamline recruitment and evaluation processes by analyzing and forecasting key attributes linked to high performance.
+This project aims to develop a predictive model for Optimizing Medical Representatives' Mission in Targeting Doctors based on various features. The goal is to improve targeting strategies, ultimately increasing prescription rates and optimizing sales efforts.
 ## Files and Structure
 * #### Jupyter Notebook [Medical Representative_Final](https://github.com/omar25599/DA-Projects/blob/main/predicting%20medical%20representatives/Medical%20Representative_Final.ipynb)
   This notebook contains all the steps for data exploration, cleaning, feature engineering, and model development. It guides users through the process of building and evaluating the predictive model.
