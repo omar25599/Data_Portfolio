@@ -1,4 +1,4 @@
-# Predicting Medical Representatives Project
+# Optimizing Medical Representatives’ Mission in Targeting Doctors
 ## Overview
 This project aims to develop a predictive model for Optimizing Medical Representatives' Mission in Targeting Doctors based on various features. The goal is to improve targeting strategies, ultimately increasing prescription rates and optimizing sales efforts.
 ## Files and Structure
